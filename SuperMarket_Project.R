@@ -127,3 +127,7 @@ ggplotly(
     facet_wrap(facets = 'Variaveis', scale = 'free')
 ) # Dataset sem outliers!!!
 
+
+# Análise das Variáveis
+
+
